@@ -2,11 +2,6 @@
 
 Damn the Potholes is a Flutter app available on web, Android, and iOS that allows users to detect, report, and track potholes and similar road hazards using their mobile phone. Reported road hazards can be coordinated with a city's report/work order system if such data is provided. Users can view reported road hazards on Google Maps and Google Street View. Leveraging AI tools for efficient UI development and API integrations, the app enhances reporting functionality and promotes community-driven road safety.
 
-## Links
-- [Visit Damn the Potholes Web Version](https://damnthepotholes.com)
-- [Download on the App Store](#) *(Placeholder link, update with actual App Store URL)*
-- [Get it on Google Play](#) *(Placeholder link, update with actual Google Play URL)*
-
 ## Screenshots
 
 ### Pothole Reporting Map
