@@ -14,4 +14,4 @@ Damn the Potholes is a Flutter app available on web, Android, and iOS that allow
 <img src="https://kevinyancy.com/images/dtp/dtp3.png" alt="View on Google Maps" width="600">
 
 ### Street View Integration
-<img src="https://kevinyancy.com/images/dtp/dtp4.png" alt="Street View Integration" width="600">
+
